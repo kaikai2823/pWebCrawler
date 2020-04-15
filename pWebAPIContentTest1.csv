@@ -1,0 +1,48 @@
+,_context,_desc,_about,_headline,_name,_datePublished,_dateModified,_mainEntityOfPage
+0," ""http://schema.org"""," ""[This API is no longer available. Google Maps' services have been split into multiple APIs, including the Static Maps API, Street View Image API, Directions APIs, Distance Matrix API, Elevation API, Geocoding API, Geolocation API, Places API, Roads API, and Time Zone API. This page is maintained purely for historical and research purposes.] The Google Maps API allow for the embedding of Google Maps onto web pages of outside developers, using a simple JavaScript interface or a Flash interface. It is designed to work on both mobile devices as well as traditional desktop browser applications. The API includes language localization for over 50 languages, region localization and geocoding, and has mechanisms for enterprise developers who want to utilize the Google Maps API within an intranet. The API HTTP services can be accessed over a secure (HTTPS) connection by Google Maps API Premier customers."""," [
+""Mapping"",
+""Viewer""
+]"," ""Google Maps"""," ""Google Maps"""," ""Mon, 2005-12-05 09:52"""," ""Thu, 2017-12-14 23:03"""," ""https://www.programmableweb.com/api/google-maps"""
+1," ""http://schema.org"""," ""[This API is no longer available. It has been split into multiple APIs, including the Twitter Ads API, Twitter Search Tweets API, and Twitter Direct Message API. This profile is maintained for historical, research, and reference purposes only.] The Twitter micro-blogging service includes two RESTful APIs. The Twitter REST API methods allow developers to access core Twitter data. This includes update timelines, status data, and user information. The Search API methods give developers methods to interact with Twitter Search and trends data. The API presently supports the following data formats: XML, JSON, and the RSS and Atom syndication formats, with some methods only accepting a subset of these formats."""," [
+""Social"",
+""Blogging""
+]"," ""Twitter"""," ""Twitter"""," ""Fri, 2006-12-08 05:16"""," ""Thu, 2017-12-14 22:56"""," ""https://www.programmableweb.com/api/twitter"""
+2," ""http://schema.org"""," ""The Data API allows users to integrate their program with YouTube and allow it to perform many of the operations available on the website. It provides the capability to search for videos, retrieve standard feeds, and see related content. A program can also authenticate as a user to upload videos, modify user playlists, and more. This integration can be used for a variety of uses such as developing a web application allowing users to upload video to YouTube, or a device or desktop application that brings the YouTube experience to a new platform. The Data API gives users programmatic access to the video and user information stored on YouTube. This can be used to personalize a web site or application with the user's existing information as well as perform actions like commenting on and rating videos. This RESTful API provides responses in XML format."""," [
+""Video"",
+""Media""
+]"," ""YouTube"""," ""YouTube"""," ""Wed, 2006-02-08 20:20"""," ""Tue, 2016-03-29 12:52"""," ""https://www.programmableweb.com/api/youtube"""
+3," ""http://schema.org"""," ""The Flickr API can be used to retrieve photos from the Flickr photo sharing service using a variety of feeds - public photos and videos, favorites, friends, group pools, discussions, and more. The API can also be used to upload photos and video.The Flickr API supports many protocols including REST, SOAP, XML-RPC. Responses can be formatted in XML, XML-RPC, JSON and PHP. Documentation is included for 14 API Kit libraries."""," [
+""Photos"",
+""Video""
+]"," ""Flickr"""," ""Flickr"""," ""Sun, 2005-09-04 00:00"""," ""Wed, 2017-11-29 23:47"""," ""https://www.programmableweb.com/api/flickr"""
+4," ""http://schema.org"""," ""[This API is no longer available. Its functions have been split among the following APIs: Facebook Ads, Facebook Atlas, Facebook Graph, and Facebook Marketing. This profile is being maintained purely for historical and research purposes.] The Facebook API is a platform for building applications that are available to the members of the social network of Facebook. The API allows applications to use the social connections and profile information to make applications more involving, and to publish activities to the news feed and profile pages of Facebook, subject to individual users privacy settings. With the API, users can add social context to their applications by utilizing profile, friend, Page, group, photo, and event data. The API uses RESTful protocol and responses are in JSON format."""," [
+""Social"",
+""Webhooks""
+]"," ""Facebook"""," ""Facebook"""," ""Wed, 2006-08-16 00:00"""," ""Thu, 2017-12-07 00:20"""," ""https://www.programmableweb.com/api/facebook"""
+5," ""http://schema.org"""," ""What was formerly the ECS - eCommerce Service - has been renamed the Product Advertising API. Through this API developers can retrieve product information. The API exposes Amazon's product data and e-commerce functionality. This allows developers, web site publishers and others to leverage the Amazon Product Discovery features that Amazon uses to power its own business, and potentially make money as an Amazon affiliate. Additionally, the API has features allowing developers to advertise proucts, let users search for Amazon products and help users discover Amazon products. Both REST and SOAP APIs are provided, this profile is for the REST API."""," [
+""eCommerce"",
+""Advertising""
+]"," ""Amazon Product Advertising"""," ""Amazon Product Advertising"""," ""Fri, 2005-12-02 20:34"""," ""Thu, 2018-11-01 16:55"""," ""https://www.programmableweb.com/api/amazon-product-advertising"""
+6," ""http://schema.org"""," ""Twilio provides a simple hosted API and markup language for businesses to quickly build scalable, reliable and advanced voice and SMS communications applications. Twilio provides a telephony infrastructure web service \"""," [
+""Telephony"",
+""Cloud"",
+""Text-to-Speech"",
+""Voice"",
+""Webhooks""
+]"," ""Twilio"""," ""Twilio"""," ""Fri, 2009-01-09 11:53"""," ""Thu, 2017-11-30 01:09"""," ""https://www.programmableweb.com/api/twilio"""
+7," ""http://schema.org"""," ""The Last.fm API gives users the ability to build programs using Last.fm data, whether on the web, the desktop or mobile devices. The RESTful API allows for read and write access to the full slate of last.fm music data resources - albums, artists, playlists, events, users, and more. It allows users to call methods that respond in either XML or JSON."""," [
+""Music""
+]"," ""Last.fm"""," ""Last.fm"""," ""Sun, 2005-10-30 01:55"""," ""Tue, 2018-01-09 19:15"""," ""https://www.programmableweb.com/api/lastfm"""
+8," ""http://schema.org"""," ""Twilio provides a simple hosted API and markup language for businesses to quickly build scalable, reliable and advanced voice and SMS communications applications. Twilio provides a telephony infrastructure web service \"""," [
+""Messaging"",
+""Telephony"",
+""USA""
+]"," ""Twilio SMS"""," ""Twilio SMS"""," ""Fri, 2010-02-19 18:57"""," ""Wed, 2018-10-17 17:23"""," ""https://www.programmableweb.com/api/twilio-sms"""
+9," ""http://schema.org"""," ""Bing Maps API and Interactive SDK features an AJAX Map Control. Use BM to build maps which can include routes and traffic info. Gives developers the ability to code the controls, shapes, and layers of the maps, and can summon the birds-eye, 3D, and aerial imagery. For commercial applications Bing Maps Web Services is a set of programmable SOAP services that allow users to integrate maps and imagery, driving directions, and other location features into a Web application."""," [
+""Mapping"",
+""Viewer""
+]"," ""Microsoft Bing Maps"""," ""Microsoft Bing Maps"""," ""Fri, 2005-12-02 21:07"""," ""Fri, 2018-12-21 15:09"""," ""https://www.programmableweb.com/api/microsoft-bing-maps"""
+10," ""http://schema.org"""," ""From their site: del.icio.us is a social bookmarking website -- the primary use of del.icio.us is to store your bookmarks online, which allows you to access the same bookmarks from any computer and add bookmarks from anywhere, too. On del.icio.us, you can use tags to organize and remember your bookmarks, which is a much more flexible system than folders. The API provides read/write access to Delicious bookmarks and tags via an HTTP-based interface. The RESTful API returns responses in XML."""," [
+""Bookmarks"",
+""Social""
+]"," ""del.icio.us"""," ""del.icio.us"""," ""Sun, 2005-10-30 23:03"""," ""Fri, 2014-08-15 11:18"""," ""https://www.programmableweb.com/api/delicious-0"""

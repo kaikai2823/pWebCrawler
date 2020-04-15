@@ -1,0 +1,12 @@
+/api/google-maps
+/api/twitter
+/api/youtube
+/api/flickr
+/api/facebook
+/api/amazon-product-advertising
+/api/twilio
+/api/lastfm
+/api/twilio-sms
+/api/microsoft-bing-maps
+/api/delicious-0
+/api/google-app-engine
