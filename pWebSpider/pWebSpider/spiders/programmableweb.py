@@ -8,10 +8,10 @@ class ProgrammablewebSpider(scrapy.Spider):
     allowed_domains = ['programmableweb.com']
 
     start_urls = []
-    rs = os.path.exists('E://pWebAPIListTest1.txt')
+    rs = os.path.exists('E://pWebAPIListTest.txt')
     if rs == True:
         # 打开文件
-        fRead = open('E://pWebAPIListTest1.txt',mode = 'r')
+        fRead = open('E://pWebAPIListTest.txt',mode = 'r')
         urllist = fRead.readlines()
         for url in urllist:
             # 去除换行键
